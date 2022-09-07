@@ -257,15 +257,3 @@ describe("User API Automation", async () => {
 
 
 
-/*try {
-    const res = await axios.get('https://example.com/does-not-exist');
-    const data = res.data;
-    console.log(data);
-  } catch (err) {
-    if (err.response) {
-      // ✅ log status code here
-      console.log(err.response.status);
-      console.log(err.message);
-      console.log(err.response.headers); // 👉️ {... response headers here}
-      console.log(err.response.data); // 👉️ {... response data here}
-    }*/
