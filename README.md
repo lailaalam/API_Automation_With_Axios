@@ -1,10 +1,18 @@
 # API_Automation_With_Axios
 
-Automated an API
+Automated an API(http://dmoney.professionaltrainingbd.com) and generated some positive and negative test cases using the following tools:
+</br>
+##Mocha(as javascript test framework)
+</br>
+##Chai(as nodejs BDD/TDD assertion library)
+</br>
+##Axios(As promise-based http client for node.js)
+</br>
+##Generated report using mochawesome custom reporter
 
 </br>
 </br>
-## The snapshots of the generated report are attached below:
+##The snapshots of the generated report are attached below:
 </br>
 </br>
 
